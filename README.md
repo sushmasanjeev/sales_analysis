@@ -27,10 +27,10 @@ sales_analysis/
 ## 🔧 Installation & Setup
 
 # 1. Clone the repository
-git clone https://github.com/yourusername/sales-analysis.git
+git clone https://github.com/yourusername/sales_analysis.git
 
 # 2. Navigate to folder
-cd sales-analysis
+cd sales_analysis
 
 # 3. Install dependencies
 pip install -r requirements.txt
